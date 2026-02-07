@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:textColorPrimary">@color/text_primary_dark</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+        <item name="android:tint">@color/text_primary_dark</item>
+    </style>
+</resources>
